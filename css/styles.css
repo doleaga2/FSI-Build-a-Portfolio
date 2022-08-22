@@ -1,5 +1,10 @@
+html{
+    cursor: url("../images/heart.png"), auto;
+}
+
 body{
     background-color: rgb(255, 156, 209);
+
  }
  
  h1{
